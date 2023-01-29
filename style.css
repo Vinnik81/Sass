@@ -1,0 +1,37 @@
+.color {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+
+.color:nth-child(1) {
+  background-color: rgb(81, 123, 158);
+}
+
+.color:nth-child(2) {
+  background-color: rgb(81, 53, 115);
+}
+
+.color:nth-child(3) {
+  background-color: rgb(207, 70, 88);
+}
+
+.color:nth-child(4) {
+  background-color: rgb(190, 250, 205);
+}
+
+.color:nth-child(5) {
+  background-color: rgb(167, 250, 28);
+}
+
+.color:nth-child(6) {
+  background-color: rgb(34, 197, 215);
+}
+
+.color:nth-child(7) {
+  background-color: rgb(151, 6, 94);
+}
+
+.color:nth-child(8) {
+  background-color: rgb(128, 26, 99);
+}/*# sourceMappingURL=style.css.map */
